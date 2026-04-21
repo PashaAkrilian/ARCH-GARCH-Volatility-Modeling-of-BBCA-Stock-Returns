@@ -29,20 +29,6 @@ This approach is widely used for financial risk analysis, volatility forecasting
 
 ---
 
-## Repository Structure
-
-```bash
-ARCH-GARCH-BBCA/
-│
-├── 2404220026_Dimas_Pasha_Akrilian_ARCH_GARCH.ipynb
-├── outputs/
-│   ├── volatility_plot.png
-│   └── diagnostics_summary.csv
-├── LICENSE
-└── README.md
-```
-
----
 
 ## Workflow
 
